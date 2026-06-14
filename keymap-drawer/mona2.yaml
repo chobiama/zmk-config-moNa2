@@ -39,8 +39,8 @@ layers:
   - {t: LEFT ALT, h: LANGUAGE 2}
   - {t: ▽, type: trans}
   - {t: ENTER, h: SYMNUM}
-  - {t: SPACE, h: WIN_SUB, type: held}
-  - {t: BACKSPACE, type: held}
+  - {t: SPACE, h: WIN_SUB}
+  - BACKSPACE
   - {t: SPACE, h: FUNC}
   - ESCAPE
   WIN_SUB:
@@ -389,6 +389,20 @@ layers:
   - BT CLR ALL
 combos:
 - p: [39, 38]
-  k: {t: ESC, h: WIN}
+  k: ESCAPE
 - p: [11, 12]
   k: TAB
+- p: [7, 8]
+  k: DELETE
+- p: [6, 7]
+  k: INSERT
+- p: [17, 18]
+  k: '&mkp MB1'
+- p: [18, 19]
+  k: '&mkp MB2'
+- p: [17, 18, 19]
+  k: '&mkp MB3'
+- p: [29, 30]
+  k: '&mkp MB4'
+- p: [30, 31]
+  k: '&mkp MB5'
