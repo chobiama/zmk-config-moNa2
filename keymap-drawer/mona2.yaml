@@ -22,12 +22,12 @@ layers:
   - K
   - L
   - {t: '-', h: RIGHT SHIFT}
-  - Z
+  - {t: Z, h: LEFT SHIFT}
   - X
   - C
   - V
   - B
-  - F14
+  - F2
   - {t: ;, h: WIRELESS}
   - N
   - M
@@ -36,13 +36,13 @@ layers:
   - /
   - LCTRL
   - LEFT WIN
-  - {t: LEFT ALT, h: LANGUAGE 2}
+  - LANG2
   - {t: ▽, type: trans}
-  - {t: ENTER, h: SYMNUM}
+  - {t: LANG1, h: SYMNUM}
   - {t: SPACE, h: WIN_SUB}
   - BACKSPACE
-  - {t: SPACE, h: FUNC}
-  - ESCAPE
+  - {t: ENTER, h: FUNC}
+  - LEFT ALT
   WIN_SUB:
   - {t: ▽, type: trans}
   - Ctl+Sft+TAB
