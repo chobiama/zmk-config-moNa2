@@ -400,7 +400,7 @@ combos:
   k: '&mkp MB1'
 - p: [18, 19]
   k: '&mkp MB2'
-- p: [17, 18, 19]
+- p: [19, 20]
   k: '&mkp MB3'
 - p: [29, 30]
   k: '&mkp MB4'
