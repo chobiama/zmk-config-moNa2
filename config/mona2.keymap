@@ -122,7 +122,7 @@
 
         WIN_SUB {
             bindings = <
-&trans          &kp LC(LS(TAB))         &kp LG(TAB)    &kp LC(TAB)              &kp LG(SLASH)                     &kp F1  &kp F2              &kp F3              &kp F4               &trans
+&trans          &kp LC(LS(TAB))         &kp LG(TAB)    &kp LC(TAB)              &kp LG(SLASH)                     &kp F1  &kp F2              &kp F3              &kp F4               &kp F5
 &trans          &kp LC(LG(LEFT_ARROW))  &kp LC(LG(D))  &kp LC(LG(RIGHT_ARROW))  &trans                    &trans  &kp F7  &kp LG(LEFT_ARROW)  &kp LG(D)           &kp LG(RIGHT_ARROW)  &kp LG(UP_ARROW)
 &kp LEFT_SHIFT  &kp LA(LEFT_ARROW)      &trans         &kp LA(RIGHT_ARROW)      &kp LG(PERIOD)  &trans    &trans  &kp F8  &trans              &kp LG(DOWN_ARROW)  &trans               &kp NON_US_BACKSLASH
 &kp LCTRL       &trans                  &trans         &trans                   &trans          &trans    &trans  &trans                                                               &trans
