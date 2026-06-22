@@ -36,13 +36,13 @@ layers:
   - /
   - LCTRL
   - LEFT WIN
-  - LANG2
-  - {t: ▽, type: trans}
+  - LEFT ALT
+  - LANGUAGE 2
   - {t: LANG1, h: SYMNUM}
   - {t: SPACE, h: WIN_SUB}
   - BACKSPACE
   - {t: ENTER, h: FUNC}
-  - LEFT ALT
+  - RIGHT ALT
   WIN_SUB:
   - {t: ▽, type: trans}
   - Ctl+Sft+TAB
