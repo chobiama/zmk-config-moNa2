@@ -53,7 +53,7 @@ layers:
   - F2
   - F3
   - F4
-  - {t: ▽, type: trans}
+  - F5
   - {t: ▽, type: trans}
   - Ctl+Gui+LEFT ARROW
   - Ctl+Gui+D
