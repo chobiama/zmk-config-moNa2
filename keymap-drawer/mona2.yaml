@@ -384,8 +384,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&bootloader'
+  - '&studio_unlock'
   - BT CLR ALL
 combos:
 - p: [39, 38]
