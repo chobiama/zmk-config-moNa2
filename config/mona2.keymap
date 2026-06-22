@@ -182,6 +182,8 @@
 &kp DOLLAR            &kp AT_SIGN      &kp PERCENT   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans    &kp PERIOD     &kp N0     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PLUS
 &kp NON_US_BACKSLASH  &kp PIPE         &trans        &trans                &trans                 &trans    &kp BACKSPACE  &kp EQUAL                                            &kp ESCAPE
             >;
+
+            sensor-bindings = <&inc_dec_kp LEFT_ARROW RIGHT_ARROW>;
         };
 
         FUNC {
@@ -203,7 +205,7 @@
 &trans        &trans        &trans        &trans        &trans        &trans    &bootloader  &studio_unlock                                            &bt BT_CLR_ALL
             >;
 
-            sensor-bindings = <&inc_dec_kp RIGHT_ARROW LEFT_ARROW>;
+            sensor-bindings = <&inc_dec_kp LEFT_ARROW RIGHT_ARROW>;
         };
     };
 };
