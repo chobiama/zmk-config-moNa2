@@ -188,7 +188,7 @@
 
         FUNC {
             bindings = <
-&trans          &trans          &trans          &trans           &trans                        &bootloader  &trans          &trans          &trans           &kp HOME
+&trans          &trans          &trans          &trans           &trans                        &bootloader  &trans          &trans          &kp LS(LG(S))    &kp HOME
 &kp TAB         &trans          &msc SCRL_UP    &trans           &trans                &trans  &trans       &mkp MB1        &kp UP_ARROW    &mkp MB2         &kp END
 &kp LEFT_SHIFT  &msc SCRL_LEFT  &msc SCRL_DOWN  &msc SCRL_RIGHT  &kp C_MUTE  &trans    &trans  &trans       &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp PAGE_UP
 &kp LCTRL       &trans          &trans          &trans           &trans      &trans    &trans  &trans                                                        &kp PAGE_DOWN
