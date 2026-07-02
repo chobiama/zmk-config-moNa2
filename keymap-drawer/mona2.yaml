@@ -310,7 +310,7 @@ layers:
   - '&bootloader'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Sft+Gui+S
   - HOME
   - TAB
   - {t: ▽, type: trans}
